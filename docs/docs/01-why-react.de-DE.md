@@ -3,7 +3,7 @@ id: why-react-de-DE
 title: Warum React?
 permalink: why-react-de-DE.html
 ---
-React ist eine JavaScript-Bibliothek von Facebook und Instagram für Benutzeroberflächen. Man kann sich React als das **V** in **[MVC](https://de.wikipedia.org/wiki/Model_View_Controller)** vorstellen.
+en,React ist eine JavaScript-Bibliothek von Facebook und Instagram für Benutzeroberflächen. Man kann sich React als das **V** in **[MVC](https://de.wikipedia.org/wiki/Model_View_Controller)** vorstellen.
 
 Wir haben React für folgende Aufgabe entwickelt: **umfangreiche Anwendungen zu bauen, deren Daten sich zeitlich ändern**.
 
